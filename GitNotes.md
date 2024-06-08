@@ -31,4 +31,13 @@
 ## To rollback to a checkpoint
 - *git checkout branch_name/commitId*
 
+## Adding to Github
+- Create a repository in github
+- Copy the repo link
+- In terminal, *git remote add nameforrepo copiedlink*
 
+## Updating the changes to github
+*git push nameforrepo branch_name*
+
+## Change someone's files
+*git pull nameforrepo branch_name*
