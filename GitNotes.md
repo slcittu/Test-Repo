@@ -16,3 +16,19 @@
 - Open that folder in terminal
 
 *git init*
+
+## Check Status of files edited
+*git status*
+
+## Check the Git usage and history
+
+*git log* or *git log --all*
+
+## Commit a change
+- *git add -all*
+- *git commit -m "Message"*
+
+## To rollback to a checkpoint
+- *git checkout branch_name/commitId*
+
+
