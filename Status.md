@@ -26,18 +26,26 @@ Linux Commands - 3 hrs
 Practiced Touch Typing
 
 ## Day 4 (07/06/24)
+### Task 4
 Linux Commands - 30 mins
 - Revised Linux Commands notes 
 Practiced Touch Typing
-
+### Task 5
 Git Tutorial - 2.5 hrs
 - Installed Git
 - Learned Basic commands and their use
 - Tried out git init, status, add, commit, log, ignore
 
 ## Day 5 (08/08/24)
-
+### Task 5
 Git Tutorial - 2 hrs
 - Tried out git commands
 - Prepared Git study notes
+Practiced Touch Typing
+## Day 6 (09/06/24)
+### Task 6
+Revised Linux commands - 1 hr
+Revised Git commands - 1hr
+- Prepared git notes
+- Committed Git Study note to github
 
