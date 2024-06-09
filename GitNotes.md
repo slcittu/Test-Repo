@@ -1,4 +1,4 @@
-# Git Notes
+# Git Notes - Git is a distributed version control system used to track changes in source code during software development.
 
 ## Installation
 ### For Opensuse Linux

@@ -44,9 +44,10 @@ Git Tutorial - 2 hrs
 Practiced Touch Typing
 ## Day 6 (09/06/24)
 ### Task 6
-Revised Linux commands - 1 hr
-Revised Git commands - 1hr
+Revised Git commands - 1.5 hr
 - Prepared git notes
 - Committed Git Study notes to github
-- Committed Linux Study notes to github
+- Committed Linux Study notes to github 
+### Task 7
+Revised Linux commands - 1.5 hr
 
