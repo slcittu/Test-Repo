@@ -1,0 +1,53 @@
+# Linux Commands
+- whoami- find username
+- rmdir - remove directory(remove folder)
+- mkdir - make directory
+- tail - display last 10 lines of a file
+- head - display first 10 lines of a file
+- uniq - *uniq file_name* - to get unique filenames in the directory
+- ps - current running process
+- sleep - sleep system
+- ln - *link source destination* -  to create shortcuts
+- man - to get manual of each command - *man ls* - gives use of ls commands
+- rm - file remove ( *rm filename* )
+- date -current date
+- diff - *diff file1 file2* - difference between two files
+- top- advanced version of ps -display cpu time,...
+- gunzip/gzip - to zip files
+- tar - zip files
+- who (Short verison of whoami)- gives owner of file
+- clear - clear the terminal
+- touch - to create a file
+- cat -  to view full file 
+- find - find a file
+- kill - to end a task - *kill taskname*
+- su - switch user - cs1/cs2/cs3
+- pwd - current working directory path
+- open - to open a file
+- less - show concised content of file
+- grep - list files of particular name pattern/ file type/... - *grep .txt*
+- killall - to end all tasks
+- sudo - for admin access
+- mv - move files - *mv sourcepath destinationpath*
+- echo - print the string - *echo hello world*
+- du - calculate filespace/filesize(disk usage)
+- jobs - similr to ps- current processes
+- nano - text editor
+- passwd - change password of the user
+- cd - change diectory
+- cp - copy file
+- wc - display details of file in sigle line
+- df - report file system storage ( to change partition)// available spaces will be displayed
+- fg - bring job to foreground
+- bg - bring job to background
+- alias - use another name fpr a command
+- chown - change ownership of file
+- chmod - change permission of a file 
+- sort - sort files 
+- history - show history of previous commands
+- xargs - build and execute command from stdin
+- la - list all features of files
+- piping - join two or more commands - *ps aux|grep fish*
+- ps aux - list all system processes
+- aux - auxiliary processes
+- echo~ - print users home directory- (user/cittu)
