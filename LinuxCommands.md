@@ -51,3 +51,16 @@
 - ps aux - list all system processes
 - aux - auxiliary processes
 - echo~ - print users home directory- (user/cittu)
+### Environment Variables
+- ~ - home directory of user
+- $USER - current username
+- $PATH - get path
+- *- every pathname in the folder
+
+- *.txt* - filenames ending with txt
+- *ls - l* - long listing of info about files
+- ? - any single character
+- *.???- displays files like a.txt,boys.pdf, etc
+- echo{a,b,c}.txt - a.txt,b.txt,c.txt
+- echo{a,b,c} - a b c
+- echo{1..99} - 1 2 3 4 ..    99
