@@ -36,8 +36,21 @@
 - Copy the repo link
 - In terminal, *git remote add nameforrepo copiedlink*
 
-## Updating the changes to github
-*git push nameforrepo branch_name*
 
 ## Change someone's files
 *git pull nameforrepo branch_name*
+
+#### head - points the latest commit
+
+## Add a repo to git
+*git remote add hub gitlink*
+## Updating the changes to github
+*git push nameforrepo branch_name*
+
+## How to update a change in github
+*git add --all*
+
+*git commit -m "Message"*
+
+*git push hub master*
+
