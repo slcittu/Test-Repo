@@ -50,4 +50,7 @@ Revised Git commands - 1.5 hr
 - Committed Linux Study notes to github 
 ### Task 7
 Revised Linux commands - 1.5 hr
+### Task 8
+HTML Introduction -35 mins
+Practiced Touch Typing
 
