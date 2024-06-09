@@ -47,5 +47,6 @@ Practiced Touch Typing
 Revised Linux commands - 1 hr
 Revised Git commands - 1hr
 - Prepared git notes
-- Committed Git Study note to github
+- Committed Git Study notes to github
+- Committed Linux Study notes to github
 
