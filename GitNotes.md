@@ -54,3 +54,43 @@
 
 *git push hub master*
 
+- #### git ignore - tell git not to backup files in .gitignore file created at root directory
+
+- #### git reset - to go back to a particular commit
+#### snapshot-complete project information (Each commit is a snapshot)
+
+## Creating a branch
+*git branch branch_name*
+
+## Merging 2 branches
+*git merge branch_name*
+## Merge Conflict
+- conflicts between merges of branches. We solve conflicts manually
+
+## cherry-pick
+- to pick some particular commits
+## To merge a particular commit to  a branch
+*git cherry-pick commit_id* 
+*git merge branch_name*
+
+## Delete a branch
+*git branch -d branchname*
+
+## git fetch
+- to fetch changes from server to client to tracking branch
+## git merge after fetch
+- to update local branch
+
+## git pull
+- instead of using both git fetch and git merge
+
+
+## git rebase
+- to manage linear history of branches
+*git pull --rebase* - used instead of git fetch + git rebase
+
+## release, the merge
+- *git rebase --continue*
+
+## *git push -f*
+- force push to delete commits in server and update new commits in local branch.
