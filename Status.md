@@ -49,19 +49,20 @@ Revised Git commands - 1.5 hr
 - Committed Git Study notes to github
 - Committed Linux Study notes to github 
 ### Task 7
-Revised Linux commands - 1.5 hr
+- Revised Linux commands - 1.5 hr
 ### Task 8
-HTML Introduction -35 mins
-Practiced Touch Typing
+- HTML Introduction -35 mins
+
+- Practiced Touch Typing
 
 ## Day 7 (10/06/24)
 ### Task 8
-Finished HTML -1.5 hrs
+- Finished HTML -1.5 hrs
 
-Practiced HTML coding - 1.5 hrs
+- Practiced HTML coding - 1.5 hrs
 
-Referred W3schools and learned input types and completed exercises. - 30 mins
+- Referred W3schools and learned input types and completed exercises. - 30 mins
 
-Written notes prepared 
+- Written notes prepared 
 
-Practiced Touch Typing
+- Practiced Touch Typing
