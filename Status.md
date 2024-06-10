@@ -54,3 +54,10 @@ Revised Linux commands - 1.5 hr
 HTML Introduction -35 mins
 Practiced Touch Typing
 
+## Day 7 (10/06/24)
+### Task 8
+Finished HTML -1.5 hrs
+Practiced HTML coding - 1.5 hrs
+Referred W3schools and learned input types and completed exercises. - 30 mins
+Written notes prepared 
+Practiced Touch Typing
