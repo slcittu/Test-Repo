@@ -66,3 +66,6 @@ Revised Git commands - 1.5 hr
 - Written notes prepared 
 
 - Practiced Touch Typing
+
+## Day 8 (11/06/24)
+### Task 8
