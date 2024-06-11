@@ -69,3 +69,7 @@ Revised Git commands - 1.5 hr
 
 ## Day 8 (11/06/24)
 ### Task 8
+- HTML Notes added to Github
+- CSS Basics Completed -1.5hrs
+- Written notes prepared - 20 mins
+- Practiced Touch Typing
