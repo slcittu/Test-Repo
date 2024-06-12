@@ -73,3 +73,11 @@ Revised Git commands - 1.5 hr
 - CSS Basics Completed -1.5hrs
 - Written notes prepared - 20 mins
 - Practiced Touch Typing
+
+## Day 9 (12/06/24)
+### Task 8
+- Practiced touch typing
+- Finished CSS  Classes and Selectors - 1hr
+- Prepared written notes
+### Task 9
+- Reviewed HTML, CSS Notes - 25 mins
