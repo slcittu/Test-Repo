@@ -81,3 +81,27 @@ Revised Git commands - 1.5 hr
 - Prepared written notes
 ### Task 9
 - Reviewed HTML, CSS Notes - 25 mins
+
+## Day 10 (13/06/24)
+### Task l0
+- Q. What commands are still unclear and what commands do you feel comfortable with?
+Answer - [ unclear - xargs, comfortable- mkdir,rmdir,touch, ps, echo,..]
+### Task 11.1 - 40 mins
+- Notes prepared
+- Practiced coding
+### Task 11.2 - 20 mins
+- Watched video and tried out Chrome Dev tools
+
+### Task 11.3 - 1hr 30 mins
+- Watched video
+- Notes prepared
+- Practiced coding
+
+### Task 11.4 - 45 mins
+- Watched video
+- Notes prepared
+- Practiced coding
+
+### Task 11.5 - 33 mins
+- Watched Video
+---
