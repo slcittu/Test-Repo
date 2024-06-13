@@ -136,3 +136,6 @@
     <input type="time">
     <input type="url">
     <input type="week">
+
+## HTML Buttons
+    <input type="button" onclick="alert('Helo World')" value="Click Me!">
