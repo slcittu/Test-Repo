@@ -105,3 +105,8 @@ Answer - [ unclear - xargs, comfortable- mkdir,rmdir,touch, ps, echo,..]
 ### Task 11.5 - 33 mins
 - Watched Video
 ---
+## Day 11 (14/06/24)
+### Task 12.1 - 40 mins
+- Watched video
+- Notes prepared
+- Practiced coding
