@@ -114,3 +114,8 @@ Answer - [ unclear - xargs, comfortable- mkdir,rmdir,touch, ps, echo,..]
 ### Task 12.2 CSS Positioning - 3hrs
 - Watched  12 videos
 - Notes prepared
+## Day 13 (15/07/24)
+### Task 12.3 Responsive Web Design - 5 hrs
+- Watched video
+- Notes prepared
+- Revised previous notes
