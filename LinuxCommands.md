@@ -27,7 +27,7 @@
 - pwd - current working directory path
 - open - to open a file
 - less - show concised content of file in a new terminal
-- grep - list files of particular name pattern/ file type/... - *grep .txt*
+- grep - list files of particular name pattern/ file type/... - *grep .txt* ( mateches pattern within a file)
 - killall - to end all tasks
 - sudo - for admin access
 - mv - move files - *mv sourcepath destinationpath*
