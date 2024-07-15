@@ -13,8 +13,9 @@
 - date -current date
 - diff - *diff file1 file2* - difference between two files
 - top- advanced version of ps -display cpu time,...
-- gunzip/gzip - to extract zip files
-- tar - to zip files
+- gunzip- to unzip file
+- gzip - to  zip file
+- tar - to zip grp of  files
 - who (Short verison of whoami)- gives owner of file
 - clear - clear the terminal
 - touch - to create a file
