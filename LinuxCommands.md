@@ -68,11 +68,11 @@
 - echo{1..99} - 1 2 3 4 ..    99
 ===========================================
 
-drwxrwxr-x -> file permission details
-d rwx rwx r-x -> d- directory, user -rwx, group -rwx, other -r-x
-rwx - read write execute
-chmod u-w index.txt - revoke write permission of user
-chmod g+x NewFolder - add execute permision to group
-chmod o-rwx index.txt - revoke all permisiion of others
-chmod a+r index.txt - add read permisson to all
-chmod a=r index.txt - add only read permission and revoke other permissions
+- drwxrwxr-x -> file permission details
+- d rwx rwx r-x -> d- directory, user -rwx, group -rwx, other -r-x
+- rwx - read write execute
+- chmod u-w index.txt - revoke write permission of user
+- chmod g+x NewFolder - add execute permision to group
+- chmod o-rwx index.txt - revoke all permisiion of others
+- chmod a+r index.txt - add read permisson to all
+- chmod a=r index.txt - add only read permission and revoke other permissions
