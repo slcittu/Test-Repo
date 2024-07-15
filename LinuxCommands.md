@@ -4,7 +4,7 @@
 - mkdir - make directory
 - tail - display last 10 lines of a file
 - head - display first 10 lines of a file
-- uniq - *uniq file_name* - to get unique filenames in the directory
+- uniq - *uniq file_name* - removes adjacent repeated lines and outputs it
 - ps - current running process
 - sleep - sleep system
 - ln - *link source destination* -  to create shortcuts
