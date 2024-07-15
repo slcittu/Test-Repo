@@ -16,8 +16,9 @@
 - gunzip- to unzip file
 - gzip - to  zip file
 - tar - to zip grp of  files
-- who (Short verison of whoami)- gives owner of file
+- who (Short verison of whoami)- gives no of users logged in to the system
 - clear - clear the terminal
+- ctrl+l - clears the visible portion of the terminal but history remains
 - touch - to create a file
 - cat -  to view full file 
 - find - find a file
@@ -25,35 +26,35 @@
 - su - switch user - cs1/cs2/cs3
 - pwd - current working directory path
 - open - to open a file
-- less - show concised content of file
+- less - show concised content of file in a new terminal
 - grep - list files of particular name pattern/ file type/... - *grep .txt*
 - killall - to end all tasks
 - sudo - for admin access
 - mv - move files - *mv sourcepath destinationpath*
 - echo - print the string - *echo hello world*
 - du - calculate filespace/filesize(disk usage)
-- jobs - similr to ps- current processes
+- jobs - list of paused jobs
 - nano - text editor
 - passwd - change password of the user
 - cd - change diectory
 - cp - copy file
-- wc - display details of file in sigle line
+- wc - display details of file in sigle line(word count, no of lines , bytes)
 - df - report file system storage ( to change partition)// available spaces will be displayed
-- fg - bring job to foreground
-- bg - bring job to background
-- alias - use another name fpr a command
+- fg - bring paused job to foreground 
+- bg - bring paused job to background (& with filename shows bg process)
+- alias - use another name for a command
 - chown - change ownership of file
 - chmod - change permission of a file 
 - sort - sort files 
 - history - show history of previous commands
 - xargs - build and execute command from stdin
-- la - list all features of files
+- ls -a - list all features of files
 - piping - join two or more commands - *ps aux|grep fish*
 - ps aux - list all system processes
 - aux - auxiliary processes
-- echo~ - print users home directory- (user/cittu)
+- echo ~ - print users home directory- (user/cittu)
 ### Environment Variables
-- ~ - home directory of user
+- ~(tilda) - home directory of user
 - $USER - current username
 - $PATH - get path
 - *- every pathname in the folder
