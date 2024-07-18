@@ -123,3 +123,8 @@ Answer - [ unclear - xargs, comfortable- mkdir,rmdir,touch, ps, echo,..]
 ### Task 12.4 Flexbox - 1.5 hrs
 - Watched video
 - Notes prepared
+## Day 15 (17/07/24)
+### Task 12.4 Flexbox - 1.5 hrs
+- Watched video
+- Notes prepared
+- Tried out flex
