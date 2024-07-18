@@ -127,4 +127,10 @@ Answer - [ unclear - xargs, comfortable- mkdir,rmdir,touch, ps, echo,..]
 ### Task 12.4 Flexbox - 1.5 hrs
 - Watched video
 - Notes prepared
-- Tried out flex
+- Tried out flexbox
+## Day 16 (18/07/24)
+### Task 12.5 CSS Animations -Completed - 2.5 hrs
+- Watched video
+- Notes prepared
+- Tried out animations
+
