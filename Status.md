@@ -133,4 +133,10 @@ Answer - [ unclear - xargs, comfortable- mkdir,rmdir,touch, ps, echo,..]
 - Watched video
 - Notes prepared
 - Tried out animations
+## Day 17 (19/07/24)
+### Task 12.6 CSS Grid  - 1.45 hrs
+- Watched video
+- Notes prepared
+- Practiced Grids
+
 
