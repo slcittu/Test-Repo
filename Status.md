@@ -138,5 +138,12 @@ Answer - [ unclear - xargs, comfortable- mkdir,rmdir,touch, ps, echo,..]
 - Watched video
 - Notes prepared
 - Practiced Grids
-
-
+## Day 18 (20/07/24)
+### Task 12.6 CSS Grid  - 1 hr
+- Watched video
+- Notes prepared
+- Practiced Grids
+### Task 12.7 CSS Variables
+- Watched video
+- Notes prepared
+- Practiced
