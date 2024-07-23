@@ -143,7 +143,12 @@ Answer - [ unclear - xargs, comfortable- mkdir,rmdir,touch, ps, echo,..]
 - Watched video
 - Notes prepared
 - Practiced Grids
-### Task 12.7 CSS Variables
+### Task 12.7 CSS Variables- 50 mins
 - Watched video
 - Notes prepared
 - Practiced
+## Day 19 (23/07/24)
+### Task 12.8 Mobile First Design  - 1 hr
+- Watched video
+- Practiced
+
