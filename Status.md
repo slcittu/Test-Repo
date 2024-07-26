@@ -151,4 +151,12 @@ Answer - [ unclear - xargs, comfortable- mkdir,rmdir,touch, ps, echo,..]
 ### Task 12.8 Mobile First Design  - 1 hr
 - Watched video
 - Practiced
+## Day 20 (25/07/24)
+### Task 12.8 Mobile First Design  - 1 hr
+- Watched video
+- Practiced
+## Day 21 (26/07/24)
+### Task 12.8 Mobile First Design  - 1 hr
+- Watched video
+- Practiced
 
